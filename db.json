@@ -4,19 +4,22 @@
             "id": 1,
             "name": "John Doe",
             "email": "johndoe@example.com",
-            "password": "password1"
+            "password": "password1",
+            "token": "token1"
         },
         {
             "id": 2,
             "name": "Jane Smith",
             "email": "janesmith@example.com",
-            "password": "password2"
+            "password": "password2",
+            "token": "token2"
         },
         {
             "id": 3,
             "name": "Bob Johnson",
             "email": "bobjohnson@example.com",
-            "password": "password3"
+            "password": "password3",
+            "token": "token3"
         }
     ],
     "posts": [
